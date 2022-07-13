@@ -1,0 +1,16 @@
+{
+  "name": "taiwan-weather-1",
+  "version": "1.0.3",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "2.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.21",
+    "nodemon": "2.0.19"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wolke-video/taiwan-weather-1.git"
+  }
+}
