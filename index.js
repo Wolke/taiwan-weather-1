@@ -1,7 +1,8 @@
 var http = require("http");
-// const TaiwanWeather = require(`./TaiwanWeather.js`);
+const TaiwanWeather = require(`./TaiwanWeather.js`);
 // (async () => {
-//   let data = await TaiwanWeather(process.env.KEY, `新北市`);
+//   console.log(`hello`);
+//   let data = await TaiwanWeather(process.env.key, `新北市`);
 //   console.log(data);
 // })();
 // //create a server object:
