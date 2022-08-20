@@ -10,7 +10,7 @@ npm install --save taiwan-weather-1
 
 ##​​ Requirements
 
-首先申請中央氣象局 open data 的帳號並得授權碼
+首先申請中央氣象局 open data 的帳號並得授權碼。
 
 ## Sample Code
 
